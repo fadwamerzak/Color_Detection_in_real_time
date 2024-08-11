@@ -8,7 +8,7 @@ This project detects a specific color (🟡 yellow) in real-time using a webcam 
 
 <img width="500" alt="Screenshot 2024-08-11 153521" src="https://github.com/user-attachments/assets/86373f76-7b17-443f-b702-7fd564e62d1e">
 
-<img width="500" alt="Screenshot 2024-08-11 153414" src="https://github.com/user-attachments/assets/18532a8e-01f4-4f89-a341-3ec0d5440d1a">
+<img width="600" alt="Screenshot 2024-08-11 153414" src="https://github.com/user-attachments/assets/18532a8e-01f4-4f89-a341-3ec0d5440d1a">
 
 ## 📋 Prerequisites
 
