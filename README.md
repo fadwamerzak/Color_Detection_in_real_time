@@ -18,7 +18,7 @@ Before running the code, make sure you have Python installed on your system. You
 ## 💻 Installation
 
 . **Install the required packages**:
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
